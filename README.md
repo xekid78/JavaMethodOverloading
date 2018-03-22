@@ -1,12 +1,12 @@
-# JavaMethodOverloading
-メソッドのオーバーロード
+# JavaOverload
+オーバーロード
 
 ## 処理
-attackメソッドをオーバーロードする。
+attack()メソッドをオーバーロードする。
 
 ## コード
 ```
-public class Sample35 {
+public class Overload {
 
 	public static void main(String[] args) {
 		attack();
@@ -50,5 +50,6 @@ public class Sample35 {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
